@@ -29,3 +29,5 @@ Foi realizada uma alteração no projeto utilizando a conta da colaboradora.
 
 ```text
 Commit realizado pela colaboradora
+
+segundo commit alteração no readme feito por jonathan
